@@ -1,0 +1,94 @@
+MIT License
+
+Copyright (c) 2024-2025 Mariana - CiberSec-Notebook
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+EDUCATIONAL USE NOTICE:
+
+This repository is intended for EDUCATIONAL and RESEARCH purposes only.
+The techniques, tools, and methodologies documented here should only be used:
+
+1. In authorized penetration testing engagements with written permission
+2. In personal lab environments with systems you own
+3. On platforms explicitly designed for security training (HTB, THM, etc.)
+
+UNAUTHORIZED access to computer systems is ILLEGAL and may result in
+criminal prosecution. The author assumes NO LIABILITY for misuse of the
+information contained in this repository.
+
+By using any content from this repository, you agree to:
+
+- Use it only for legal and ethical purposes
+- Obtain proper authorization before testing any systems
+- Comply with all applicable laws and regulations
+- Take full responsibility for your actions
+
+USE AT YOUR OWN RISK. PRACTICE RESPONSIBLE DISCLOSURE.
+
+---
+
+Licença MIT
+
+Copyright (c) 2024-2025 Mariana - CiberSec-Notebook
+
+É concedida permissão, gratuitamente, a qualquer pessoa que obtenha uma cópia
+deste software e dos arquivos de documentação associados (o "Software"), para
+lidar com o Software sem restrições, incluindo, sem limitação, os direitos de
+usar, copiar, modificar, mesclar, publicar, distribuir, sublicenciar e/ou vender
+cópias do Software, e permitir que as pessoas a quem o Software é fornecido o
+façam, sob as seguintes condições:
+
+O aviso de copyright acima e este aviso de permissão devem ser incluídos em todas
+as cópias ou partes substanciais do Software.
+
+O SOFTWARE É FORNECIDO "COMO ESTÁ", SEM GARANTIA DE QUALQUER TIPO, EXPRESSA OU
+IMPLÍCITA, INCLUINDO, MAS NÃO SE LIMITANDO ÀS GARANTIAS DE COMERCIALIZAÇÃO,
+ADEQUAÇÃO A UM DETERMINADO FIM E NÃO VIOLAÇÃO. EM NENHUMA CIRCUNSTÂNCIA OS
+AUTORES OU DETENTORES DOS DIREITOS AUTORAIS SERÃO RESPONSÁVEIS POR QUALQUER
+RECLAMAÇÃO, DANOS OU OUTRA RESPONSABILIDADE, SEJA EM AÇÃO DE CONTRATO, ATO
+ILÍCITO OU DE OUTRA FORMA, DECORRENTE DE, OU EM CONEXÃO COM O SOFTWARE OU O
+USO OU OUTRAS NEGOCIAÇÕES NO SOFTWARE.
+
+---
+
+AVISO DE USO EDUCACIONAL:
+
+Este repositório destina-se APENAS a fins EDUCACIONAIS e de PESQUISA.
+As técnicas, ferramentas e metodologias aqui documentadas devem ser usadas apenas:
+
+1. Em testes de penetração autorizados com permissão por escrito
+2. Em ambientes de laboratório pessoal com sistemas de sua propriedade
+3. Em plataformas explicitamente projetadas para treinamento em segurança
+   (HTB, THM, VulnHub, etc.)
+
+O acesso NÃO AUTORIZADO a sistemas de computador é ILEGAL e pode resultar em
+processo criminal. O autor NÃO assume NENHUMA RESPONSABILIDADE pelo uso indevido
+das informações contidas neste repositório.
+
+Ao usar qualquer conteúdo deste repositório, você concorda em:
+
+- Usá-lo apenas para fins legais e éticos
+- Obter autorização adequada antes de testar quaisquer sistemas
+- Cumprir todas as leis e regulamentos aplicáveis
+- Assumir total responsabilidade por suas ações
+
+USE POR SUA PRÓPRIA CONTA E RISCO. PRATIQUE DIVULGAÇÃO RESPONSÁVEL.
